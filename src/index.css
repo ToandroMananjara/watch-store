@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  box-sizing: border-box;
+}
+body {
+  min-height: 100vh;
+  position: inherit;
+}
+.hero-rigjt {
+  height: 100%;
+}
